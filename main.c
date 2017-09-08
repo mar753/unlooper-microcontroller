@@ -1,4 +1,4 @@
-//attiny2313, clock (clk): 14,28MHz; tested unit clock: 1,78MHz
+//attiny2313, clock (clk): 14,29MHz; tested unit clock: 1,78MHz
 //v1.1
 //Marcel Szewczyk
 
